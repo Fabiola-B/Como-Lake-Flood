@@ -15,7 +15,7 @@ The file `flood.csv` contains information about the charcateristics of lake floo
 - the duration in days of the event (`duration_days`);
 - the severity of the event (`severity_cm_days`)
 - the date of the closest rainfall event before the flood (`date_last_rainfall`);
-- a categorization of flood events (see Figure `mode.png`)
+- a categorization of flood events (`mode`, see Figure `mode.png` for the meaning).
 
 ### Triggers of lake floods
 
