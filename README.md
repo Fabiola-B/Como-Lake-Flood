@@ -19,7 +19,7 @@ The file `flood.csv` contains information about the charcateristics of lake floo
 
 ### Triggers of lake floods
 
-The file `trigger.csv` contains information about how much each trigger contributed to the increase of water level that resulted in a a lake flood.
+The file `trigger.csv` contains information about how much each trigger contributed to the increase of water level that resulted in a lake flood.
 For each event, it is reported:
 - the date of the flood peak (`date`);
 - the classification in spring/autumn events (`type`);
