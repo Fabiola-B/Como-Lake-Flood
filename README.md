@@ -37,10 +37,10 @@ Events are sorted in order of increasing severity.
 
 The file `WT_frequency.csv` contains the frequency (%) of each weather pattern
 - for the whole series (`type = 1`),
-- for days with precipitation above the 0.8 quantile of wet days (`type = 2`), 
-- for days in which a raifnall event preceding a flood occured (`type = 3`).
+- for days with rainfall above the 0.8 quantile of wet days (`type = 2`), 
+- for days in which the rainfall event closest to each flood occured (`type = 3`).
 
-Frequencies were computed considering the period 1981--2010.
+Frequencies are computed considering the period 1981--2010.
 
 ## References
 Salinger, M.J., Baldi, M., Grifoni, D. et al. Seasonal differences in climate in the Chianti region of Tuscany and the relationship to vintage wine quality. Int J Biometeorol 59, 1799–1811 (2015). https://doi.org/10.1007/s00484-015-0988-8
