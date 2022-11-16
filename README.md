@@ -3,6 +3,9 @@
 The Repository contains datasets about the hydrological and meteorological triggers of lake floods, affecting the town of Como, Italy, since 1981.
 For any questions regarding the data you should contact fabiola.banfi@polimi.it.
 
+The dataset is associated to the following pubblication:
+Banfi, F., De Michele, C. Compound flood hazard at Lake Como, Italy, is driven by temporal clustering of rainfall events. Commun Earth Environ 3, 234 (2022). https://doi.org/10.1038/s43247-022-00557-9
+
 ## Description of files
 
 All files are semicolumn delimited CSV files.
